@@ -1,2 +1,2 @@
-# dsd
-cpe487
+# dsd - digital system design
+###### cpe487
