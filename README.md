@@ -1,2 +1,2 @@
-# dsd - digital system design
-###### cpe487
+# CPE 487 -- Digital System Design
+###### Janet Hamrani
