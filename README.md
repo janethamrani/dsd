@@ -21,6 +21,6 @@ Program Outcome 2: (Design)
 5. Upload the design, test bench, and VCD files to the GitHub repository
 6. Create a README.md to include the screen shot
 ## Half Adder Function
-### Submission: [assignment1.vhdl](./Assignment 2/assignment1.vhdl)
+### Submission: [assignment1.vhdl](./"Assignment 2"/assignment1.vhdl)
 ### GTKWave VCD File
 ![image](https://user-images.githubusercontent.com/26263012/153734316-cfde9d94-863c-471b-ac15-6aab279a5f02.png)
