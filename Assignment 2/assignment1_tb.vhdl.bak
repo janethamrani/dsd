@@ -17,7 +17,7 @@ architecture test of assignment1_tb is
 	
 	signal a, b, o, c : std_ulogic;
 begin
-	half_adder: assignment1 port map (a => a, b => b, o => o, c => c);
+	half_adder: assignment1 port map (a => a, b => b; o => o, c => c);
 	process begin
 		a <= 'X';
 		b <= 'X';
