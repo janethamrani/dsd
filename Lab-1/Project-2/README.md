@@ -5,9 +5,9 @@ Objective: Build a 4-bit counter to display a hex character
 
 ### Submission
 1. Design Sources
-   * Submission: [hexcount.vhdl](./hexcount.vhd)
-   * Submission: [leddec.vhd](./leddec.vhd)
-   * Submission: [counter.vhd](./counter.vhd)
+   * File: [hexcount.vhdl](./hexcount.vhd)
+   * File: [leddec.vhd](./leddec.vhd)
+   * File: [counter.vhd](./counter.vhd)
 2. Constraints
    * Submission: [hexcount.xdc](./hexcount.xdc)
 3. Watch Result: https://youtu.be/QQojJu83R_U
