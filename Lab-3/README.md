@@ -14,4 +14,4 @@ Watch result: https://youtube.com/shorts/tKCStMfnetY?feature=share
 2. Change shape from round to square
 3. Introduce a new signal ball_x_motion to allow the ball to move both horizontally and vertically
 
-File: [ball.vhdl](./Modifications/ball_1.vhd)
+Modified File: [ball.vhdl](./Modifications/ball_1.vhd)
