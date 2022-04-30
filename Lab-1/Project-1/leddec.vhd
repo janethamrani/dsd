@@ -3,10 +3,10 @@ USE IEEE.STD_LOGIC_1164.ALL;
 
 ENTITY leddec IS
 	PORT (
-		dig : IN STD_LOGIC_VECTOR (2 DOWNTO 0);
-		data : IN STD_LOGIC_VECTOR (3 DOWNTO 0);
-		anode : OUT STD_LOGIC_VECTOR (7 DOWNTO 0);
-		seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0)
+		dig : IN STD_LOGIC_VECTOR (2 DOWNTO 0); -- 3 bit digit selector
+		data : IN STD_LOGIC_VECTOR (3 DOWNTO 0); -- 4 bit counter
+		anode : OUT STD_LOGIC_VECTOR (7 DOWNTO 0); -- 8 bit CA
+		seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0) -- LED Display
 	);
 END leddec;
 
