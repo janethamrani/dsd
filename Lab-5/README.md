@@ -41,4 +41,19 @@
 
 Watch Result: https://youtube.com/shorts/BwJBdHCHJw8?feature=share
 
+### [Modifications](https://github.com/janethamrani/dsd/tree/Lab-5/Modifications)
+
+#### A) Change the upper and lower tone limits
+
+* Generates a square wave instead of a triangle wave when the upper push button (BTNU) is depressed
+
+#### B) Change the wailing speed
+
+* Adjust the eight slide switches (SW0-SW7) on the Nexys A7-100T board to set the wailing speed
+
+#### C) Add a second wail instance to drive the right audio channel
+
+* Use different high and low tone limits and wailing speed for the right audio channel
+
+Watch Result: https://youtube.com/shorts/1XuDK_pYZUY?feature=share
 
