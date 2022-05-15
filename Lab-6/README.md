@@ -22,3 +22,26 @@
   * BTN0 on the Nexys2 board is used to initiate a serve.
   * The process ckp is used to generate timing signals for the VGA and ADC modules.
   * The output of the adc_if module drives bat_x of the bat_n_ball module.
+
+Watch Result: https://youtube.com/shorts/ypG-3vr5lRI?feature=share
+
+### 5. Edit code with the following [modifications](https://github.com/kevinwlu/dsd/tree/main/Lab-6/Modifications)
+
+#### A) Change ball speed
+
+* The ball speed is currently 6 pixels per video frame
+
+* Use the slide switches on the Nexys A7-100T board to program the ball speed in the range of 1-32 pixels per frame
+
+#### B) Change bat width and count hits
+
+* Double the width of the bat to make the game really easy
+
+* The bat width decreases one pixel each time successfully hitting the ball and then resets to
+starting width when missing the ball
+
+* See how many times hitting the ball in a row as the bat slowly shrinks
+
+* Count the number of successful hits after each serve and display the count in binary on the 7-segment displays of the Nexys A7-100T board
+
+Watch Result: https://youtube.com/shorts/pxFX0h9qLPM
