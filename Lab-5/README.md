@@ -38,3 +38,7 @@
   * The module wail is instanced to generate the 16-bit signed audio sequences data_L and data_R (the same data is sent to both channels).
   * These sequences are then sent to an instance of dac_if to convert them to the required serial stream.
   * Primary outputs of this top level module go directly to the DAC.
+
+Watch Result: https://youtube.com/shorts/BwJBdHCHJw8?feature=share
+
+
