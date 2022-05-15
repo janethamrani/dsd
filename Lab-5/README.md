@@ -41,7 +41,7 @@
 
 Watch Result: https://youtube.com/shorts/BwJBdHCHJw8?feature=share
 
-### [Modifications](https://github.com/janethamrani/dsd/tree/Lab-5/Modifications)
+### [Modifications](https://github.com/janethamrani/dsd/tree/main/Lab-5/Modifications)
 
 #### A) Change the upper and lower tone limits
 
