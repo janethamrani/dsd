@@ -25,7 +25,7 @@
 
 Watch Result: https://youtube.com/shorts/ypG-3vr5lRI?feature=share
 
-### 5. Edit code with the following [modifications](https://github.com/kevinwlu/dsd/tree/main/Lab-6/Modifications)
+### [Modifications](https://github.com/kevinwlu/dsd/tree/main/Lab-6/Modifications)
 
 #### A) Change ball speed
 
