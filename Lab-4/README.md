@@ -13,7 +13,7 @@
 
 Watch Result: https://youtube.com/shorts/Gyj_-WFfM5Q?feature=share
 
-### [Modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4/Modifications)
+### [Modifications](https://github.com/janethamrani/dsd//tree/main/Lab-4/Modifications)
 
 #### A) Edit the leddec16 module to perform leading zero suppression
 
