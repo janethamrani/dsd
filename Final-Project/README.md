@@ -28,7 +28,7 @@ FSM States:
 
 ### Reflection
 
-I'm very glad I chose this project to work on as it helped me understand FSM which can be useful in the future. To complete this project, I mainly reviewed [Lab-4](https://github.com/janethamrani/dsd/tree/main/Lab-4) to understand to utilize the keypad. I initially had trouble understanding the connection between the physical keypad and the code and how they are connected, since my only experience with coding hardware is Arduino. However, after reviewing the code and reading other documentation I began to understand how it all works. I wasn't able to run this program on my FPGA board, however, because of how I couldn't figure out how to randomize the front and back sensor variables. Nevertheless, I feel accomplished with how this turned out and how much stronger my understanding of VHDL, FPGA boards, and FSM has become 
+I'm very glad I chose this project to work on as it helped me understand FSM which can be useful in the future. To complete this project, I mainly reviewed [Lab-4](https://github.com/janethamrani/dsd/tree/main/Lab-4) to understand to utilize the keypad. I initially had trouble understanding the connection between the physical keypad and the code and how they are connected, since my only experience with coding hardware is Arduino. However, after reviewing the code and reading other documentation I began to understand how it all works and how the constraint files relates to source files as well. I wasn't able to run this program on my FPGA board, however, because of how I couldn't figure out how to randomize the front and back sensor variables. Nevertheless, I feel accomplished with how this turned out and how much stronger my understanding of VHDL, FPGA boards, and FSM has become 
 
 
 
