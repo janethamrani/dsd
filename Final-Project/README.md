@@ -26,9 +26,4 @@ FSM States:
      *  Once the password is submitted, it checks if the inputted password matches the set password. If so, they are let in (RIGHT_PASS state), and if not, it goes back to the IDLE stage where they input a new password
   * In the RIGHT_PASS stage, it checks the front_sensor and back_sensor variable. If these are both '1', it means as the current car is coming, there is another one behind so it needs to require the password for the following car. This triggers the WAIT_PASSWORD stage where the user has to input the password. If only the back_sensor is '1', this means there is no car and the stage goes back to IDLE as it waits for an incoming car
 
-### Reflection
-
-I'm very glad I chose this project to work on as it helped me understand FSM which can be useful in the future. To complete this project, I mainly reviewed [Lab-4](https://github.com/janethamrani/dsd/tree/main/Lab-4) to understand to utilize the keypad. I initially had trouble understanding the connection between the physical keypad and the code and how they are connected, since my only experience with coding hardware is Arduino. However, after reviewing the code and reading other documentation I began to understand how it all works and how the constraint files relates to source files as well. I wasn't able to run this program on my FPGA board, however, because of how I couldn't figure out how to randomize the front and back sensor variables. Nevertheless, I feel accomplished with how this turned out and how much stronger my understanding of VHDL, FPGA boards, and FSM has become 
-
-
 
